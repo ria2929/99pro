@@ -1,0 +1,28 @@
+.copy_right_footer {
+    position : fixed;
+    bottom: 0;
+    width : 100%;
+    text-align : center;
+}
+
+h1 {
+       font-family: serif;
+       font-weight: 100;
+       font-style: italic;
+}
+
+h4 {
+    color: rgb(119, 17, 56);
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+    color: black;
+}
+
+img { width: 37%; border-radius: 4px; padding: 10px; box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2); }
+
+img:hover {
+ border-radius: 150px;
+}
